@@ -1,0 +1,38 @@
+
+#carouselExample{
+    width: 50%;
+    height: 50%;
+    /*solo centra horizontalmente*/
+    /*margin: 0 auto;
+    width: fix-content;*/
+
+}
+
+.flex-container{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+#hola1 {
+    background-color:aqua;   
+}
+
+h2 {
+  font-family: "Plus Jakarta Sans", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: <weight>;
+  font-style: normal;
+}
+
+body {
+    background-color:bisque;
+}
+
+header {
+    background-color: red;
+    height: 80px;
+    width: 75%;
+    top: 50%;
+    position: fixed;
+}
